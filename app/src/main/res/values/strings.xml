@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewSpinner</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="sort_types">
+        <item>Name</item>
+        <item>Price</item>
+    </string-array>
+</resources>
